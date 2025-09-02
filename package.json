@@ -1,0 +1,23 @@
+{
+  "name": "wetter-dashboard-frontend",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Frontend-only Wetter-Dashboard (Next.js) für die Tecomon-Aufgabe",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "export": "next export",
+    "predeploy": "npm run build && npm run export",
+    "deploy": "gh-pages -d out",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "14.2.5",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  },
+  "devDependencies": {
+    "gh-pages": "6.0.0",
+    "eslint": "8.57.0"
+  }
+}
