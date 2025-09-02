@@ -6,7 +6,7 @@
 ---
 
 ### 📸 Screenshot
-![Wetter-Dashboard (Frontend)](./public/preview.png)
+![Wetter-Dashboard (Frontend)](./preview.png)
 
 ## Motivation & Begründung (Warum noch kein Backend?)
 
