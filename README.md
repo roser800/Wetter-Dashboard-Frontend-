@@ -1,4 +1,4 @@
-# Wetter-Dashboard – Tecomon-Aufgabe
+# Wetter-Dashboard (Frontend)
 
 > Diese Umsetzung konzentriert sich bewusst auf das **Frontend**. Die Widget-Liste (Städte) wird im **Browser** gespeichert (localStorage), die **Wetterdaten** werden **direkt** aus dem Browser von **Open‑Meteo** geladen (kein API‑Key erforderlich).  
 > Ein Backend (Node/Express, MongoDB, Server‑Cache) ist **noch nicht enthalten** – siehe Begründung & Roadmap.
