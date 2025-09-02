@@ -16,7 +16,7 @@ jobs:
         with:
           node-version: 18
           cache: 'npm'
-      - run: npm ci
+      - run: npm install
       - run: npm run build
       - run: npm run export
       - uses: actions/upload-pages-artifact@v3
