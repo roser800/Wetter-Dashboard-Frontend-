@@ -5,6 +5,9 @@
 
 ---
 
+### 📸 Screenshot
+![Wetter-Dashboard (Frontend)](./public/preview.png)
+
 ## Motivation & Begründung (Warum noch kein Backend?)
 
 Als **Quereinsteiger (Frontend)** fehlt mir aktuell **Praxisroutine** in
